@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; FTC Team {{ site.team_number }} &middot; {{ site.school }}</p>
+    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {% if site.social.github != "" %} &middot; <a href="https://github.com/{{ site.social.github }}">GitHub</a>{% endif %}
+      {% if site.social.instagram != "" %} &middot; <a href="{{ site.social.instagram }}">Instagram</a>{% endif %}
+      {% if site.social.youtube != "" %} &middot; <a href="{{ site.social.youtube }}">YouTube</a>{% endif %}
+    </p>
+  </div>
+</footer>

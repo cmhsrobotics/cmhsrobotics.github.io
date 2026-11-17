@@ -1,0 +1,11 @@
+# One entry per outreach activity, newest first.
+- title: Outreach event title
+  date: "2025-01-01"
+  location: Local elementary school
+  reach: "0 students"
+  description: Describe the event, what the team did, and its impact.
+- title: Outreach event title
+  date: "2024-01-01"
+  location: Public library
+  reach: "0 students"
+  description: Describe the event, what the team did, and its impact.

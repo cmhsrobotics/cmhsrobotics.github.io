@@ -1,0 +1,12 @@
+# Add one entry per team member. Optional: photo (path under /assets/images/)
+- name: Member Name
+  role: Team Captain
+  grade: 12
+  bio: A short bio goes here.
+- name: Member Name
+  role: Programmer
+  grade: 11
+  bio: A short bio goes here.
+- name: Mentor Name
+  role: Mentor
+  bio: A short bio goes here.
