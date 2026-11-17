@@ -1,0 +1,13 @@
+# One entry per season, newest first.
+- season: "2024-2025"
+  game: "Game name"
+  events:
+    - name: Event name
+      result: "Placement / awards"
+      notes: Notes about the event.
+- season: "2023-2024"
+  game: "Game name"
+  events:
+    - name: Event name
+      result: "Placement / awards"
+      notes: Notes about the event.
